@@ -21,12 +21,12 @@
 
 | 文件 | 职责 |
 |---|---|
-| [01_Game_Vision.md](01_Game_Vision.md) | 主题、玩家角色、体验目标、任期结构与结局 |
-| [02_Core_Gameplay.md](02_Core_Gameplay.md) | 核心循环、提案、政策、事件、议会、崩溃度与局外成长 |
-| [03_World_and_Content.md](03_World_and_Content.md) | 蓬莱历史、未然、种族政党、利益集团与内容写作规范 |
-| [04_UI_and_Art.md](04_UI_and_Art.md) | 场景交互、信息呈现、视觉方向、服饰基准与资产规范 |
+| [01_Game_Vision.md](01_Game_Vision.md) | 主题、玩家角色、体验目标、任期体验与结局意义 |
+| [02_Core_Gameplay.md](02_Core_Gameplay.md) | 通用玩法、阵营表决、提案、政策、事件、崩溃度与局外成长 |
+| [03_World_and_Content.md](03_World_and_Content.md) | 蓬莱历史、未然、阵营偏好、利益集团与内容写作规范 |
+| [04_UI_and_Art.md](04_UI_and_Art.md) | 规则状态的交互呈现、视觉方向、服饰基准与资产规范 |
 
-所有说明文档位于项目根目录，`assets/` 仅保存图片等制作资产。规则关系以 [02_Core_Gameplay.md](02_Core_Gameplay.md) 为准，世界观与阵营偏好以 [03_World_and_Content.md](03_World_and_Content.md) 为准。
+所有说明文档位于项目根目录，`assets/` 仅保存图片等制作资产。通用玩法与阵营表决以 [02_Core_Gameplay.md](02_Core_Gameplay.md) 为准，世界观、阵营偏好和内容理由以 [03_World_and_Content.md](03_World_and_Content.md) 为准，界面与美术只负责呈现这些状态。
 
 ## 术语
 
