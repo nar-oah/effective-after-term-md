@@ -31,7 +31,7 @@
 | 文件 | 说明 |
 |---|---|
 | [01_Game_Vision.md](01_Game_Vision.md) | 主题、背景、一局结构与唯一结局 |
-| [02_Core_Gameplay.md](02_Core_Gameplay.md) | 唯一的核心规则来源：发牌、谈判、渐进效果、政策、预测、议会与崩溃度 |
+| [02_Core_Gameplay.md](02_Core_Gameplay.md) | 唯一的核心规则来源：发牌、谈判、渐进效果、政策、预测、议会、惶压与崩溃度 |
 | [03_World_and_Content.md](03_World_and_Content.md) | 蓬莱历史、未然能源、幻想种族、利益集团和示例内容 |
 | [04_UI_and_Art.md](04_UI_and_Art.md) | 办公室、报纸、议会与结局的交互说明和画面示意图 |
 | [assets/服饰/服饰设定.md](assets/服饰/服饰设定.md) | 中式与维多利亚语汇结合的通用服饰基准、三视图和种族适配规则 |
