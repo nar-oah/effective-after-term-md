@@ -34,6 +34,7 @@
 | [02_Core_Gameplay.md](02_Core_Gameplay.md) | 唯一的核心规则来源：发牌、谈判、渐进效果、政策、预测、议会与崩溃度 |
 | [03_World_and_Content.md](03_World_and_Content.md) | 幻想种族、利益集团、局外解锁和示例内容 |
 | [04_UI_and_Art.md](04_UI_and_Art.md) | 办公室、报纸、议会与结局的交互说明和画面示意图 |
+| [assets/设定/服饰/服饰设定.md](assets/设定/服饰/服饰设定.md) | 中式与维多利亚语汇结合的通用服饰基准、三视图和种族适配规则 |
 
 ## 术语
 
