@@ -24,7 +24,7 @@
 |---|---|
 | [01_Game_Vision.md](01_Game_Vision.md) | 主题、玩家角色、体验目标、任期体验与结局意义 |
 | [02_Core_Gameplay.md](02_Core_Gameplay.md) | 通用玩法、阵营表决、提案、政策、事件、崩溃度与局外成长 |
-| [03_World_and_Content.md](03_World_and_Content.md) | 蓬莱历史、未然、阵营偏好、利益集团与内容写作规范 |
+| [03_World_and_Content.md](03_World_and_Content.md) | 蓬莱历史、未然、年度期望、利益集团与内容写作规范 |
 | [04_UI_and_Art.md](04_UI_and_Art.md) | 规则状态的交互呈现、视觉方向、服饰基准与资产规范 |
 | [05_Penglai_Constitution.md](05_Penglai_Constitution.md) | 《蓬莱约法》的年度修订规则、全部条款、要求与制度效果 |
 
