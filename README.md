@@ -25,8 +25,8 @@
 |---|---|
 | [01_Game_Vision.md](01_Game_Vision.md) | 主题、玩家角色、体验目标、任期体验与结局意义 |
 | [02_Core_Gameplay.md](02_Core_Gameplay.md) | 通用玩法、阵营表决、提案、政策、事件、崩溃度与局外成长 |
-| [03_World_and_Content.md](03_World_and_Content.md) | 蓬莱历史、未然、年度期望、利益集团与内容写作规范 |
-| [04_UI_and_Art.md](04_UI_and_Art.md) | 界面设计系统、文书与印信形制、规则状态的交互呈现、服饰基准与资产规范 |
+| [03_World_and_Content.md](03_World_and_Content.md) | 蓬莱历史、未然、年度期望、种族对话态度、利益集团与内容写作规范 |
+| [04_UI_and_Art.md](04_UI_and_Art.md) | 界面设计系统、文书与印信形制、规则状态的交互呈现、立绘与服饰基准、资产规范 |
 | [05_Penglai_Constitution.md](05_Penglai_Constitution.md) | 《蓬莱约法》的年度修订规则、全部条款、要求与制度效果 |
 
 所有说明文档位于项目根目录，`assets/` 仅保存图片等制作资产。通用玩法与阵营表决以 [02_Core_Gameplay.md](02_Core_Gameplay.md) 为准，世界观、年度期望和内容理由以 [03_World_and_Content.md](03_World_and_Content.md) 为准，约法条款以 [05_Penglai_Constitution.md](05_Penglai_Constitution.md) 为准，界面与美术只负责呈现这些状态。
